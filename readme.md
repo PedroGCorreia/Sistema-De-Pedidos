@@ -5,7 +5,7 @@
 No desenvolvimento foram utilizadas:
 * Duas filas dinâmicas com encadeamento simples e com iterador: uma com os pedidos não iniciados e outra com os pedidos concluídos;
 * Uma lista dinâmica, circular, duplamente encadeada, com sentinela e iterador: que contém os pedidos em andamento;
-* Além de um biblioteca que funciona para criar a interface do sistema.
+* Além de uma biblioteca que funciona para criar a interface do sistema.
 
 ### Sobre a implementação da estrutura fila
 * <strong>Struct fila</strong> - deve ser criada no arquivo main.c pelo usuário;
@@ -47,6 +47,9 @@ No desenvolvimento foram utilizadas:
 * Dentro desse arquivo foi armazenado a struct que contém os dados (número de identificação, informações sobre o pedido e o valor) que serão utilizadas em cada pedido.
 
 ### Sobre o main.c
-* Criou-se uma posssível aplicação desenvolvida pelo usuário, em que se simula a utilização no restaurante.
+* Criou-se uma possível aplicação desenvolvida pelo usuário, em que se simula a utilização no restaurante.
+
+### Sobre a pasta html
+* Contém os arquivos html, css e javascript gerados pela aplicação Doxygen com o intuito de documentar o projeto e suas bibliotecas
 
 🚀 | Aplicação desenvolvida por Pedro Gonçalves Correia e Pedro Enrico Barchi Nogueira
